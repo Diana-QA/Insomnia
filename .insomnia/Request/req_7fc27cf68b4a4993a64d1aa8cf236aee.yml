@@ -1,0 +1,21 @@
+_id: req_7fc27cf68b4a4993a64d1aa8cf236aee
+type: Request
+parentId: fld_6f1e8ee711d54d70b342189ca6576a4b
+modified: 1687041451192
+created: 1687041195619
+url: https://petstore.swagger.io/v2/pet/1
+name: Deletes a pet
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1687037210681
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
