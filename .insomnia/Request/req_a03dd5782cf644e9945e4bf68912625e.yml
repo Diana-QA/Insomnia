@@ -1,0 +1,21 @@
+_id: req_a03dd5782cf644e9945e4bf68912625e
+type: Request
+parentId: fld_6f1e8ee711d54d70b342189ca6576a4b
+modified: 1687037499593
+created: 1687037415064
+url: https://petstore.swagger.io/v2/pet/1
+name: Find pet by ID
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1687037210731
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

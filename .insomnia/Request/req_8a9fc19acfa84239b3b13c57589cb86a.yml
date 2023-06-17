@@ -1,0 +1,43 @@
+_id: req_8a9fc19acfa84239b3b13c57589cb86a
+type: Request
+parentId: fld_6f1e8ee711d54d70b342189ca6576a4b
+modified: 1687037535348
+created: 1687037210781
+url: https://petstore.swagger.io/v2/pet
+name: Add a new pet to the store
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "id": 1,
+      "category": {
+        "id": 1,
+        "name": "Mars"
+      },
+      "name": "doggie",
+      "photoUrls": [
+        "string"
+      ],
+      "tags": [
+        {
+          "id": 1,
+          "name": "string"
+        }
+      ],
+      "status": "string"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1687037210781
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
